@@ -28,6 +28,7 @@ dist/
 resources/
 app/*/package-lock.json
 .vscode/
+*.mta
 
 # IDEs
 # .vscode
