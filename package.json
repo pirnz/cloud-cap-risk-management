@@ -64,8 +64,31 @@
           "kind": "hana-cloud"
         }
       },
-      "db": {
-        "kind": "sql"
+      "[development]": {
+        "db": {
+          "kind": "sql"
+        },
+        "auth": {
+          "passport": {
+            "strategy": "mock",
+            "users": {
+              "risk.viewer@tester.sap.com": {
+                "password": "initial",
+                "ID": "risk.viewer@tester.sap.com",
+                "roles": [
+                  "RiskViewer"
+                ]
+              },
+              "risk.manager@tester.sap.com": {
+                "password": "initial",
+                "ID": "risk.manager@tester.sap.com",
+                "roles": [
+                  "RiskManager"
+                ]
+              }
+            }
+          }
+        }
       }
     }
   }
