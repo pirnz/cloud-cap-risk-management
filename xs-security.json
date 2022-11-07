@@ -1,29 +1,73 @@
 {
   "scopes": [
     {
+      "name": "$XSAPPNAME.RiskCreator",
+      "description": "RiskCreator"
+    },
+    {
       "name": "$XSAPPNAME.RiskViewer",
       "description": "RiskViewer"
     },
     {
       "name": "$XSAPPNAME.RiskManager",
       "description": "RiskManager"
+    },
+    {
+      "name": "$XSAPPNAME.MitiEditor",
+      "description": "MitiEditor"
+    },
+    {
+      "name": "$XSAPPNAME.MitiViewer",
+      "description": "MitiViewer"
+    },
+    {
+      "name": "$XSAPPNAME.MitiManager",
+      "description": "MitiManager"
     }
   ],
   "attributes": [],
   "role-templates": [
     {
-        "name": "RiskViewer",
-        "description": "generated",
-        "scope-references": [
-          "$XSAPPNAME.RiskViewer"
-        ]
-      },
-      {
-        "name": "RiskManager",
-        "description": "generated",
-        "scope-references": [
-          "$XSAPPNAME.RiskManager"
-        ]
-      }
+      "name": "RiskCreator",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.RiskCreator"
+      ]
+    },
+    {
+      "name": "RiskViewer",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.RiskViewer"
+      ]
+    },
+    {
+      "name": "RiskManager",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.RiskManager"
+      ]
+    },
+    {
+      "name": "MitiEditor",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.MitiEditor"
+      ]
+    },
+    {
+      "name": "MitiViewer",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.MitiViewer"
+      ]
+    },
+    {
+      "name": "MitiManager",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.MitiManager"
+      ]
+    }
   ]
 }
