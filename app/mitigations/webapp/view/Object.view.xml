@@ -30,6 +30,7 @@
                 <ObjectStatus title="Description" text="{description}"/>
                 <ObjectStatus title="Owner" text="{owner}"/>
                 <ObjectStatus title="Timeline" text="{timeline}"/>
+				<ObjectStatus title="Assigned to" text="{assignedTo}"/>
             </l:VerticalLayout>
         </semantic:content>
 

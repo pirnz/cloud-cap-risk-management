@@ -17,6 +17,7 @@ annotate RiskService.Mitigations with {
 	);
 	description  @title: 'Description';
 	owner        @title: 'Owner';
+	assignedTo   @title: 'Assigned To';
 	timeline     @title: 'Timeline';
 	risks        @title: 'Risks';
 }

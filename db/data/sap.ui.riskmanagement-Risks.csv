@@ -1,4 +1,149 @@
-ID;createdAt;createdBy;title;prio;descr;miti_id;impact
-20466922-7d57-4e76-b14c-e53fd97dcb11;2021-04-27;max.mustermann@muster.com;CFR non-compliance ;3;Recent restructuring might violate CFR code 71;20466921-7d57-4e76-b14c-e53fd97dcb11;10000
-20466922-7d57-4e76-b14c-e53fd97dcb12;2021-04-27;max.mustermann@muster.com;SLA violation with possible termination cause;2;Repeated SAL violation on service delivery for two successive quarters;20466921-7d57-4e76-b14c-e53fd97dcb12;90000
-20466922-7d57-4e76-b14c-e53fd97dcb13;2021-04-27;max.mustermann@muster.com;Shipment violating export control;1;Violation of export and trade control with unauthorized downloads;20466921-7d57-4e76-b14c-e53fd97dcb13;200000
+ID,createdAt,createdBy,title,prio,descr,miti_id,impact
+20466922-7d57-4e76-b14c-e53fd97dcb11,2021-04-27,train-01,CFR non-compliance ,3,Recent restructuring might violate CFR code 71,20466921-7d57-4e76-b14c-e53fd97dcb11,10000
+20466922-7d57-4e76-b14c-e53fd97dcb12,2021-04-27,train-02,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb12,90000
+20466922-7d57-4e76-b14c-e53fd97dcb13,2021-04-27,train-03,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb13,200000
+20466922-7d57-4e76-b14c-e53fd97dcb14,2021-04-27,train-04,CFR non-compliance ,1,Recent restructuring might violate CFR code 72,20466921-7d57-4e76-b14c-e53fd97dcb14,10000
+20466922-7d57-4e76-b14c-e53fd97dcb15,2021-04-27,train-05,SLA violation with possible termination cause,1,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb15,90000
+20466922-7d57-4e76-b14c-e53fd97dcb16,2021-04-27,train-06,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb16,200000
+20466922-7d57-4e76-b14c-e53fd97dcb17,2021-04-27,train-07,CFR non-compliance ,1,Recent restructuring might violate CFR code 73,20466921-7d57-4e76-b14c-e53fd97dcb17,10000
+20466922-7d57-4e76-b14c-e53fd97dcb18,2021-04-27,train-08,SLA violation with possible termination cause,1,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb18,90000
+20466922-7d57-4e76-b14c-e53fd97dcb19,2021-04-27,train-09,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb19,200000
+20466922-7d57-4e76-b14c-e53fd97dcb20,2021-04-27,train-10,CFR non-compliance ,1,Recent restructuring might violate CFR code 74,20466921-7d57-4e76-b14c-e53fd97dcb20,10000
+20466922-7d57-4e76-b14c-e53fd97dcb21,2021-04-27,train-11,SLA violation with possible termination cause,1,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb21,90000
+20466922-7d57-4e76-b14c-e53fd97dcb22,2021-04-27,train-12,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb22,200000
+20466922-7d57-4e76-b14c-e53fd97dcb23,2021-04-27,train-13,CFR non-compliance ,1,Recent restructuring might violate CFR code 75,20466921-7d57-4e76-b14c-e53fd97dcb23,10000
+20466922-7d57-4e76-b14c-e53fd97dcb24,2021-04-27,train-14,SLA violation with possible termination cause,1,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb24,90000
+20466922-7d57-4e76-b14c-e53fd97dcb25,2021-04-27,train-15,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb25,200000
+20466922-7d57-4e76-b14c-e53fd97dcb26,2021-04-27,train-16,CFR non-compliance ,1,Recent restructuring might violate CFR code 76,20466921-7d57-4e76-b14c-e53fd97dcb26,10000
+20466922-7d57-4e76-b14c-e53fd97dcb27,2021-04-27,train-17,SLA violation with possible termination cause,1,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb27,90000
+20466922-7d57-4e76-b14c-e53fd97dcb28,2021-04-27,train-18,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb28,200000
+20466922-7d57-4e76-b14c-e53fd97dcb29,2021-04-27,train-19,CFR non-compliance ,1,Recent restructuring might violate CFR code 77,20466921-7d57-4e76-b14c-e53fd97dcb29,10000
+20466922-7d57-4e76-b14c-e53fd97dcb30,2021-04-27,train-20,SLA violation with possible termination cause,1,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb30,90000
+20466922-7d57-4e76-b14c-e53fd97dcb31,2021-04-27,train-21,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb31,200000
+20466922-7d57-4e76-b14c-e53fd97dcb32,2021-04-27,train-22,CFR non-compliance ,1,Recent restructuring might violate CFR code 78,20466921-7d57-4e76-b14c-e53fd97dcb32,10000
+20466922-7d57-4e76-b14c-e53fd97dcb33,2021-04-27,train-23,SLA violation with possible termination cause,1,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb33,90000
+20466922-7d57-4e76-b14c-e53fd97dcb34,2021-04-27,train-24,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb34,200000
+20466922-7d57-4e76-b14c-e53fd97dcb35,2021-04-27,train-25,CFR non-compliance ,1,Recent restructuring might violate CFR code 79,20466921-7d57-4e76-b14c-e53fd97dcb35,10000
+20466922-7d57-4e76-b14c-e53fd97dcb36,2021-04-27,train-26,SLA violation with possible termination cause,1,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb36,90000
+20466922-7d57-4e76-b14c-e53fd97dcb37,2021-04-27,train-27,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb37,200000
+20466922-7d57-4e76-b14c-e53fd97dcb38,2021-04-27,train-28,CFR non-compliance ,1,Recent restructuring might violate CFR code 80,20466921-7d57-4e76-b14c-e53fd97dcb38,10000
+20466922-7d57-4e76-b14c-e53fd97dcb39,2021-04-27,train-29,SLA violation with possible termination cause,1,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb39,90000
+20466922-7d57-4e76-b14c-e53fd97dcb40,2021-04-27,train-30,Shipment violating export control,1,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb40,200000
+20466922-7d57-4e76-b14c-e53fd97dcb41,2021-04-27,train-31,CFR non-compliance ,1,Recent restructuring might violate CFR code 81,20466921-7d57-4e76-b14c-e53fd97dcb41,10000
+20466922-7d57-4e76-b14c-e53fd97dcb42,2021-04-27,train-32,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb42,90000
+20466922-7d57-4e76-b14c-e53fd97dcb43,2021-04-27,train-33,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb43,200000
+20466922-7d57-4e76-b14c-e53fd97dcb44,2021-04-27,train-34,CFR non-compliance ,1,Recent restructuring might violate CFR code 82,20466921-7d57-4e76-b14c-e53fd97dcb44,10000
+20466922-7d57-4e76-b14c-e53fd97dcb45,2021-04-27,train-35,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb45,90000
+20466922-7d57-4e76-b14c-e53fd97dcb46,2021-04-27,train-36,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb46,200000
+20466922-7d57-4e76-b14c-e53fd97dcb47,2021-04-27,train-37,CFR non-compliance ,1,Recent restructuring might violate CFR code 83,20466921-7d57-4e76-b14c-e53fd97dcb47,10000
+20466922-7d57-4e76-b14c-e53fd97dcb48,2021-04-27,train-38,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb48,90000
+20466922-7d57-4e76-b14c-e53fd97dcb49,2021-04-27,train-39,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb49,200000
+20466922-7d57-4e76-b14c-e53fd97dcb50,2021-04-27,train-40,CFR non-compliance ,1,Recent restructuring might violate CFR code 84,20466921-7d57-4e76-b14c-e53fd97dcb50,10000
+20466922-7d57-4e76-b14c-e53fd97dcb51,2021-04-27,train-41,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb51,90000
+20466922-7d57-4e76-b14c-e53fd97dcb52,2021-04-27,train-42,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb52,200000
+20466922-7d57-4e76-b14c-e53fd97dcb53,2021-04-27,train-43,CFR non-compliance ,1,Recent restructuring might violate CFR code 85,20466921-7d57-4e76-b14c-e53fd97dcb53,10000
+20466922-7d57-4e76-b14c-e53fd97dcb54,2021-04-27,train-44,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb54,90000
+20466922-7d57-4e76-b14c-e53fd97dcb55,2021-04-27,train-45,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb55,200000
+20466922-7d57-4e76-b14c-e53fd97dcb56,2021-04-27,train-46,CFR non-compliance ,1,Recent restructuring might violate CFR code 86,20466921-7d57-4e76-b14c-e53fd97dcb56,10000
+20466922-7d57-4e76-b14c-e53fd97dcb57,2021-04-27,train-47,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb57,90000
+20466922-7d57-4e76-b14c-e53fd97dcb58,2021-04-27,train-48,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb58,200000
+20466922-7d57-4e76-b14c-e53fd97dcb59,2021-04-27,train-49,CFR non-compliance ,1,Recent restructuring might violate CFR code 87,20466921-7d57-4e76-b14c-e53fd97dcb59,10000
+20466922-7d57-4e76-b14c-e53fd97dcb60,2021-04-28,train-50,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb60,90000
+20466922-7d57-4e76-b14c-e53fd97dcb61,2021-04-29,train-02,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb61,200000
+20466922-7d57-4e76-b14c-e53fd97dcb62,2021-04-30,train-03,CFR non-compliance ,1,Recent restructuring might violate CFR code 88,20466921-7d57-4e76-b14c-e53fd97dcb62,10000
+20466922-7d57-4e76-b14c-e53fd97dcb63,2021-05-01,train-04,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb63,90000
+20466922-7d57-4e76-b14c-e53fd97dcb64,2021-05-02,train-05,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb64,200000
+20466922-7d57-4e76-b14c-e53fd97dcb65,2021-05-03,train-06,CFR non-compliance ,1,Recent restructuring might violate CFR code 89,20466921-7d57-4e76-b14c-e53fd97dcb65,10000
+20466922-7d57-4e76-b14c-e53fd97dcb66,2021-05-04,train-07,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb66,90000
+20466922-7d57-4e76-b14c-e53fd97dcb67,2021-05-05,train-08,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb67,200000
+20466922-7d57-4e76-b14c-e53fd97dcb68,2021-05-06,train-09,CFR non-compliance ,1,Recent restructuring might violate CFR code 90,20466921-7d57-4e76-b14c-e53fd97dcb68,10000
+20466922-7d57-4e76-b14c-e53fd97dcb69,2021-05-07,train-10,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb69,90000
+20466922-7d57-4e76-b14c-e53fd97dcb70,2021-05-08,train-11,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb70,200000
+20466922-7d57-4e76-b14c-e53fd97dcb71,2021-05-09,train-12,CFR non-compliance ,1,Recent restructuring might violate CFR code 91,20466921-7d57-4e76-b14c-e53fd97dcb71,10000
+20466922-7d57-4e76-b14c-e53fd97dcb72,2021-05-10,train-13,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb72,90000
+20466922-7d57-4e76-b14c-e53fd97dcb73,2021-05-11,train-14,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb73,200000
+20466922-7d57-4e76-b14c-e53fd97dcb74,2021-05-12,train-15,CFR non-compliance ,1,Recent restructuring might violate CFR code 92,20466921-7d57-4e76-b14c-e53fd97dcb74,10000
+20466922-7d57-4e76-b14c-e53fd97dcb75,2021-05-13,train-16,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb75,90000
+20466922-7d57-4e76-b14c-e53fd97dcb76,2021-05-14,train-17,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb76,200000
+20466922-7d57-4e76-b14c-e53fd97dcb77,2021-05-15,train-18,CFR non-compliance ,1,Recent restructuring might violate CFR code 93,20466921-7d57-4e76-b14c-e53fd97dcb77,10000
+20466922-7d57-4e76-b14c-e53fd97dcb78,2021-05-16,train-19,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb78,90000
+20466922-7d57-4e76-b14c-e53fd97dcb79,2021-05-17,train-20,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb79,200000
+20466922-7d57-4e76-b14c-e53fd97dcb80,2021-05-18,train-21,CFR non-compliance ,1,Recent restructuring might violate CFR code 94,20466921-7d57-4e76-b14c-e53fd97dcb80,10000
+20466922-7d57-4e76-b14c-e53fd97dcb81,2021-05-19,train-22,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb81,90000
+20466922-7d57-4e76-b14c-e53fd97dcb82,2021-05-20,train-23,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb82,200000
+20466922-7d57-4e76-b14c-e53fd97dcb83,2021-05-21,train-24,CFR non-compliance ,1,Recent restructuring might violate CFR code 95,20466921-7d57-4e76-b14c-e53fd97dcb83,10000
+20466922-7d57-4e76-b14c-e53fd97dcb84,2021-05-22,train-25,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb84,90000
+20466922-7d57-4e76-b14c-e53fd97dcb85,2021-05-23,train-26,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb85,200000
+20466922-7d57-4e76-b14c-e53fd97dcb86,2021-05-24,train-27,CFR non-compliance ,1,Recent restructuring might violate CFR code 96,20466921-7d57-4e76-b14c-e53fd97dcb86,10000
+20466922-7d57-4e76-b14c-e53fd97dcb87,2021-05-25,train-28,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb87,90000
+20466922-7d57-4e76-b14c-e53fd97dcb88,2021-05-26,train-29,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb88,200000
+20466922-7d57-4e76-b14c-e53fd97dcb89,2021-05-27,train-30,CFR non-compliance ,1,Recent restructuring might violate CFR code 97,20466921-7d57-4e76-b14c-e53fd97dcb89,10000
+20466922-7d57-4e76-b14c-e53fd97dcb90,2021-05-28,train-31,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb90,90000
+20466922-7d57-4e76-b14c-e53fd97dcb91,2021-05-29,train-32,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb91,200000
+20466922-7d57-4e76-b14c-e53fd97dcb92,2021-05-30,train-33,CFR non-compliance ,1,Recent restructuring might violate CFR code 98,20466921-7d57-4e76-b14c-e53fd97dcb92,10000
+20466922-7d57-4e76-b14c-e53fd97dcb93,2021-05-31,train-34,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb93,90000
+20466922-7d57-4e76-b14c-e53fd97dcb94,2021-06-01,train-35,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb94,200000
+20466922-7d57-4e76-b14c-e53fd97dcb95,2021-06-02,train-36,CFR non-compliance ,1,Recent restructuring might violate CFR code 99,20466921-7d57-4e76-b14c-e53fd97dcb95,10000
+20466922-7d57-4e76-b14c-e53fd97dcb96,2021-06-03,train-37,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb96,90000
+20466922-7d57-4e76-b14c-e53fd97dcb97,2021-06-04,train-38,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb97,200000
+20466922-7d57-4e76-b14c-e53fd97dcb98,2021-06-05,train-39,CFR non-compliance ,1,Recent restructuring might violate CFR code 100,20466921-7d57-4e76-b14c-e53fd97dcb98,10000
+20466922-7d57-4e76-b14c-e53fd97dcb99,2021-06-06,train-40,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb99,90000
+20466922-7d57-4e76-b14c-e53fd97dcb00,2021-06-07,train-41,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb00,200000
+20466922-7d57-4e76-b14c-e53fd97dcb01,2021-06-08,train-42,CFR non-compliance ,1,Recent restructuring might violate CFR code 101,20466921-7d57-4e76-b14c-e53fd97dcb01,10000
+20466922-7d57-4e76-b14c-e53fd97dcb02,2021-06-09,train-43,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb02,90000
+20466922-7d57-4e76-b14c-e53fd97dcb03,2021-06-10,train-44,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb03,200000
+20466922-7d57-4e76-b14c-e53fd97dcb04,2021-06-11,train-45,CFR non-compliance ,1,Recent restructuring might violate CFR code 102,20466921-7d57-4e76-b14c-e53fd97dcb04,10000
+20466922-7d57-4e76-b14c-e53fd97dcb05,2021-06-12,train-46,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb05,90000
+20466922-7d57-4e76-b14c-e53fd97dcb06,2021-06-13,train-47,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb06,200000
+20466922-7d57-4e76-b14c-e53fd97dcb07,2021-06-14,train-48,CFR non-compliance ,1,Recent restructuring might violate CFR code 103,20466921-7d57-4e76-b14c-e53fd97dcb07,10000
+20466922-7d57-4e76-b14c-e53fd97dcb08,2021-06-15,train-49,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e53fd97dcb08,90000
+20466922-7d57-4e76-b14c-e53fd97dcb09,2021-06-16,train-50,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e53fd97dcb09,200000
+20466922-7d57-4e76-b14c-e53fd97dcb10,2021-06-17,train-01,CFR non-compliance ,1,Recent restructuring might violate CFR code 104,20466921-7d57-4e76-b14c-e53fd97dcb10,10000
+20466922-7d57-4e76-b14c-e52fd97dcb11,2021-06-18,train-03,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb11,90000
+20466922-7d57-4e76-b14c-e52fd97dcb12,2021-06-19,train-04,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb12,200000
+20466922-7d57-4e76-b14c-e52fd97dcb13,2021-06-20,train-05,CFR non-compliance ,1,Recent restructuring might violate CFR code 105,20466921-7d57-4e76-b14c-e52fd97dcb13,10000
+20466922-7d57-4e76-b14c-e52fd97dcb14,2021-06-21,train-06,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb14,90000
+20466922-7d57-4e76-b14c-e52fd97dcb15,2021-06-22,train-07,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb15,200000
+20466922-7d57-4e76-b14c-e52fd97dcb16,2021-06-23,train-08,CFR non-compliance ,1,Recent restructuring might violate CFR code 106,20466921-7d57-4e76-b14c-e52fd97dcb16,10000
+20466922-7d57-4e76-b14c-e52fd97dcb17,2021-06-24,train-09,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb17,90000
+20466922-7d57-4e76-b14c-e52fd97dcb18,2021-06-25,train-10,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb18,200000
+20466922-7d57-4e76-b14c-e52fd97dcb19,2021-06-26,train-11,CFR non-compliance ,1,Recent restructuring might violate CFR code 107,20466921-7d57-4e76-b14c-e52fd97dcb19,10000
+20466922-7d57-4e76-b14c-e52fd97dcb20,2021-06-27,train-12,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb20,90000
+20466922-7d57-4e76-b14c-e52fd97dcb21,2021-06-28,train-13,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb21,200000
+20466922-7d57-4e76-b14c-e52fd97dcb22,2021-06-29,train-14,CFR non-compliance ,1,Recent restructuring might violate CFR code 108,20466921-7d57-4e76-b14c-e52fd97dcb22,10000
+20466922-7d57-4e76-b14c-e52fd97dcb23,2021-06-30,train-15,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb23,90000
+20466922-7d57-4e76-b14c-e52fd97dcb24,2021-07-01,train-16,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb24,200000
+20466922-7d57-4e76-b14c-e52fd97dcb25,2021-07-02,train-17,CFR non-compliance ,1,Recent restructuring might violate CFR code 109,20466921-7d57-4e76-b14c-e52fd97dcb25,10000
+20466922-7d57-4e76-b14c-e52fd97dcb26,2021-07-03,train-18,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb26,90000
+20466922-7d57-4e76-b14c-e52fd97dcb27,2021-07-04,train-19,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb27,200000
+20466922-7d57-4e76-b14c-e52fd97dcb28,2021-07-05,train-20,CFR non-compliance ,1,Recent restructuring might violate CFR code 110,20466921-7d57-4e76-b14c-e52fd97dcb28,10000
+20466922-7d57-4e76-b14c-e52fd97dcb29,2021-07-06,train-21,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb29,90000
+20466922-7d57-4e76-b14c-e52fd97dcb30,2021-07-07,train-22,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb30,200000
+20466922-7d57-4e76-b14c-e52fd97dcb31,2021-07-08,train-23,CFR non-compliance ,1,Recent restructuring might violate CFR code 111,20466921-7d57-4e76-b14c-e52fd97dcb31,10000
+20466922-7d57-4e76-b14c-e52fd97dcb32,2021-07-09,train-24,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb32,90000
+20466922-7d57-4e76-b14c-e52fd97dcb33,2021-07-10,train-25,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb33,200000
+20466922-7d57-4e76-b14c-e52fd97dcb34,2021-07-11,train-26,CFR non-compliance ,1,Recent restructuring might violate CFR code 112,20466921-7d57-4e76-b14c-e52fd97dcb34,10000
+20466922-7d57-4e76-b14c-e52fd97dcb35,2021-07-12,train-27,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb35,90000
+20466922-7d57-4e76-b14c-e52fd97dcb36,2021-07-13,train-28,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb36,200000
+20466922-7d57-4e76-b14c-e52fd97dcb37,2021-07-14,train-29,CFR non-compliance ,1,Recent restructuring might violate CFR code 113,20466921-7d57-4e76-b14c-e52fd97dcb37,10000
+20466922-7d57-4e76-b14c-e52fd97dcb38,2021-07-15,train-30,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb38,90000
+20466922-7d57-4e76-b14c-e52fd97dcb39,2021-07-16,train-31,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb39,200000
+20466922-7d57-4e76-b14c-e52fd97dcb40,2021-07-17,train-32,CFR non-compliance ,1,Recent restructuring might violate CFR code 114,20466921-7d57-4e76-b14c-e52fd97dcb40,10000
+20466922-7d57-4e76-b14c-e52fd97dcb41,2021-07-18,train-33,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb41,90000
+20466922-7d57-4e76-b14c-e52fd97dcb42,2021-07-19,train-34,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb42,200000
+20466922-7d57-4e76-b14c-e52fd97dcb43,2021-07-20,train-35,CFR non-compliance ,1,Recent restructuring might violate CFR code 115,20466921-7d57-4e76-b14c-e52fd97dcb43,10000
+20466922-7d57-4e76-b14c-e52fd97dcb44,2021-07-21,train-36,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb44,90000
+20466922-7d57-4e76-b14c-e52fd97dcb45,2021-07-22,train-37,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb45,200000
+20466922-7d57-4e76-b14c-e52fd97dcb46,2021-07-23,train-38,CFR non-compliance ,1,Recent restructuring might violate CFR code 116,20466921-7d57-4e76-b14c-e52fd97dcb46,10000
+20466922-7d57-4e76-b14c-e52fd97dcb47,2021-07-24,train-39,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb47,90000
+20466922-7d57-4e76-b14c-e52fd97dcb48,2021-07-25,train-40,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb48,200000
+20466922-7d57-4e76-b14c-e52fd97dcb49,2021-07-26,train-41,CFR non-compliance ,1,Recent restructuring might violate CFR code 117,20466921-7d57-4e76-b14c-e52fd97dcb49,10000
+20466922-7d57-4e76-b14c-e52fd97dcb50,2021-07-27,train-42,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb50,90000
+20466922-7d57-4e76-b14c-e52fd97dcb51,2021-07-28,train-43,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb51,200000
+20466922-7d57-4e76-b14c-e52fd97dcb52,2021-07-29,train-44,CFR non-compliance ,1,Recent restructuring might violate CFR code 118,20466921-7d57-4e76-b14c-e52fd97dcb52,10000
+20466922-7d57-4e76-b14c-e52fd97dcb53,2021-07-30,train-45,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb53,90000
+20466922-7d57-4e76-b14c-e52fd97dcb54,2021-07-31,train-46,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb54,200000
+20466922-7d57-4e76-b14c-e52fd97dcb55,2021-08-01,train-47,CFR non-compliance ,1,Recent restructuring might violate CFR code 119,20466921-7d57-4e76-b14c-e52fd97dcb55,10000
+20466922-7d57-4e76-b14c-e52fd97dcb56,2021-08-02,train-48,SLA violation with possible termination cause,2,Repeated SAL violation on service delivery for two successive quarters,20466921-7d57-4e76-b14c-e52fd97dcb56,90000
+20466922-7d57-4e76-b14c-e52fd97dcb57,2021-08-03,train-01,Shipment violating export control,3,Violation of export and trade control with unauthorized downloads,20466921-7d57-4e76-b14c-e52fd97dcb57,200000
+20466922-7d57-4e76-b14c-e52fd97dcb58,2021-08-04,train-02,CFR non-compliance ,1,Recent restructuring might violate CFR code 120,20466921-7d57-4e76-b14c-e52fd97dcb58,10000
