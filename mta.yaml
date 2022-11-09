@@ -52,7 +52,7 @@ modules:
               ServiceKeyName: cpapp-auth-key
               ServiceInstanceName: cpapp-auth
               sap.cloud.service: cpapp.service
-          existing_destinations_policy: ignore
+          existing_destinations_policy: update
     build-parameters:
       no-source: true
   - name: cpapp-app-content
