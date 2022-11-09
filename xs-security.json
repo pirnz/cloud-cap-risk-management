@@ -69,5 +69,30 @@
         "$XSAPPNAME.MitiManager"
       ]
     }
+  ],
+  "role-collections": [
+    {
+      "name": "Enduser",
+      "description": "Enduser roles",
+      "role-template-references": [
+        "$XSAPPNAME.RiskCreator"
+      ]
+    },
+    {
+      "name": "Processor",
+      "description": "Enduser roles",
+      "role-template-references": [
+        "$XSAPPNAME.RiskViewer",
+        "$XSAPPNAME.MitiEditor"
+      ]
+    },
+    {
+      "name": "Manager",
+      "description": "Enduser roles",
+      "role-template-references": [
+        "$XSAPPNAME.RiskManager",
+        "$XSAPPNAME.MitiManager"
+      ]
+    }
   ]
 }
